@@ -54,4 +54,4 @@ MIT License
 
 ## Author
 
-Created by Joe Stout
+Created by Joe Stallings
